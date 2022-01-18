@@ -74,4 +74,4 @@ Describe your findings and plan future course of action.
     2.d Heatmap of correlation analysis among the relevant variables
 
     2.e Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
-### My Solution  
+[My Solution](https://github.com/samuel-ntsua/DataScience_Capstone_Project/blob/d2c013a2a40d243cb612168a82b3ce3c5789424f/DS_capstone_proj_newrun_sntsua.ipynb) 
